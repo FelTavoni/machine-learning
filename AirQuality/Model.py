@@ -14,7 +14,7 @@ if __name__ == "__main__":
 	air_quality.drop(['Date', 'Time'], axis=1, inplace=True)
 	print(air_quality.head(8))
 
-	# Checking correlation between all attributes
+	# Checking correlation between all features
 	plt.figure(figsize=(20,20))
 	sns.heatmap(air_quality.corr(), annot=True);
 	# plt.show()

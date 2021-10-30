@@ -16,7 +16,7 @@
 
 The following program intends to predict air quality based on the amount of carbon monoxide. This problem purpose by professor Diego Furtado in the discipline of Machine Learning aims to solve a known problem using linear regression methods. In sequence, we'll analyze some approaches to tackle this problem by predicting the quantity of carbon dioxide in the air.
 
-In this [link](https://archive.ics.uci.edu/ml/datasets/Air+Quality), you can locate the dataset that was used.
+In this [link](https://archive.ics.uci.edu/ml/datasets/Air+Quality), you can locate the dataset that was used. We also made a jupyter notebook available with the same text below for a better comprehension around the topic.
 
 
 ## 💻 Predictive Models
