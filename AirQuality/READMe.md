@@ -34,6 +34,7 @@ By analyzing seaborn correlations, it's possible to observe that carbon monoxide
 - [ ] Build the predictive model to predict the amount of CO2 relying on air
   - [ ] Analyze the data obtained in UCI
   - [ ] Write a better *Multiple Linear Regression* section
+- [ ] Remove NaN from dataset
 
 ---
 
