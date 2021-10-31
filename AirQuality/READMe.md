@@ -18,6 +18,8 @@ The following program intends to predict air quality based on the amount of carb
 
 In this [link](https://archive.ics.uci.edu/ml/datasets/Air+Quality), you can locate the dataset that was used. We also made a jupyter notebook available with the same text below for a better comprehension around the topic.
 
+ATT: Data was edited. Some numbers were strings like '2,9', which made pandas unable to convert to '2.8' float.
+
 
 ## 💻 Predictive Models
 
