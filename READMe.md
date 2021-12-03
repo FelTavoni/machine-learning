@@ -13,11 +13,11 @@
 
 ## 🔍 About
 
-This repository holds our machine learning projects. Here, two Jupyter Notebooks were created for further analyses on some data. One of them is related to air pollution, which may be considered the most significant impact upon human evolution. Through time, treaties and protocols, such as Kyoto and Paris agreements, were created focused on reducing gas emission, a major cause of the Greenhouse Effect. With the advance of Machine Learning, today is possible to predict events to reduce pollution effects. Hence, this Jupyter presents a study of Regression Models to predict continuous variables related to air quality features. 
+This repository holds our machine learning projects. Here, two Jupyter Notebooks were created for further analyses on some data. One of them is related to air pollution, which may be considered the most significant impact upon human evolution. Through time, treaties and protocols, such as Kyoto and Paris agreements, were created focused on reducing gas emission, a major cause of the Greenhouse Effect. With the advance of Machine Learning, today is possible to predict events to reduce pollution effects. Hence, [this Jupyter](./AirQuality.ipynb) presents a study of Regression Models to predict continuous variables related to air quality features. 
 
-The second model analyzes Bitcoin. This cryptocurrency has revolutionized money in our world. Cryptocurrency is a virtual currency based in blockchain, a distributed system in which transactions are made in an intriguing safety due to its decentralized, untraceable, and immutable aspects. Recently, ransomware attackers have evolved the way they charge to unlock attacked systems, asking for cryptocurrency as payment. As blockchain is hard to track, this study aims to analyze how transactions take place and try to predict if a crypto coin - in this case, Bitcoin - the address is being used for malicious intent or not.
+The [second Jupyter](./BitCoin.ipynb) analyzes Bitcoin. This cryptocurrency has revolutionized money in our world. Cryptocurrency is a virtual currency based in blockchain, a distributed system in which transactions are made in an intriguing safety due to its decentralized, untraceable, and immutable aspects. Recently, ransomware attackers have evolved the way they charge to unlock attacked systems, asking for cryptocurrency as payment. As blockchain is hard to track, this study aims to analyze how transactions take place and try to predict if a crypto coin - in this case, Bitcoin - the address is being used for malicious intent or not.
 
-The data used on all of the projects are founded on this website: UCL Machine Learning Repo.
+The data used on all of the projects are founded on this website: [UCL Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php).
 
 ---
 
