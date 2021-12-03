@@ -57,7 +57,7 @@ These are the following tools used in this project:
 
 ---
 
-## References
+## 📃 References
 
 The projects were developed in conjunction with the discipline developed by prof. Diego Furtado from Federal University of São Carlos.
 
