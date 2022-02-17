@@ -63,7 +63,7 @@ The projects were developed in conjunction with the discipline developed by prof
 
 ---
 
-## 🦸 Authors
+## :shipit: Authors
 
 <table>
   <tr>
